@@ -13,7 +13,7 @@ ZYCLANG_DLINK="https://github.com/ZyCromerZ/Clang/releases/download/19.0.0git-20
 ZYCLANG_DIR="$WORKDIR/ZyClang/bin"
 
 # 内核源码 Git 仓库地址
-KERNEL_GIT="https://github.com/25ji-Telegram-de/android_kernel_xiaomi_selene.git"
+KERNEL_GIT="https://github.com/extodez/android_kernel_xiaomi_selene.git"
 # 内核源码分支
 KERNEL_BRANCHE="yuki-saisei"
 # 内核源码目录
